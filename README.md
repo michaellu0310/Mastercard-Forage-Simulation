@@ -3,6 +3,8 @@
 
 This repository showcases my work from the [MasterCard Cybersecurity Virtual Experience](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye), where I focused on identifying phishing emails and creating educational content around them. I successfully analyzed suspicious emails to identify potential phishing attempts and then crafted a realistic phishing email scenario. To further reinforce the learning, I developed a PowerPoint presentation aimed at teaching employees how to recognize phishing emails and protect themselves from such threats. This experience has sharpened my skills in phishing detection, social engineering, and cybersecurity awareness training.
 
+**Key Skills**: Phishing Detection, Social Engineering Techniques, Email Analysis, Threat Simulation, Cybersecurity Awareness Training, Presentation Skills
+
 ## Task 1: Email Identification & Phishing Email Crafting
 In task 1, my goal is to identify phishing emails and attempt social engineering to get employees to fall for a phishing campaign email. 
 
